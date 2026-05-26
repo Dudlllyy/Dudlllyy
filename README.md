@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 <a href="#">
-  <img align="right" width="250" src="https://media1.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding GIF" />
+  <img align="right" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ294dWd5eG5zYW4yYXFwemI3ZXY2dTgxMHAxNWpzYzVxeTlpcndrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1FZcaDYnQFBMMdN5E/giphy.gif" alt="Coding GIF" />
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudlllyy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
