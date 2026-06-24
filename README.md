@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dudlllyy" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [EconomicStatsCS2](https://github.com/Dudlllyy/AlternativeTwitchPlayer)
+- 🔭 I’m currently working on [AlternativeTwitchPlayer](https://github.com/Dudlllyy/AlternativeTwitchPlayer)
 
 - 🌱 I’m currently learning **Machine code**
 
